@@ -1,4 +1,4 @@
-# TrackML
+# 0. Solution for the Kaggle TrackML Competition
 Code for the TrackML Kaggle competition
 
 ### trackml.ipynb
