@@ -1,4 +1,4 @@
-# 54th Place Solution; 0.59229 private LB 
+# 54th Place Solution for bkKaggle team; 0.59229 private LB 
 
 ## Third Kaggle competition and a second bronze medal!  
 
