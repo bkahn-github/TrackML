@@ -2,7 +2,7 @@
 
 ## Third Kaggle competition and a second bronze medal!  
 
-Hi, I’m a 15 year old Kaggle beginner and this is my third Kaggle competition and second bronze medal! This competition was different from others since it wasn’t a straightforward supervised learning problem which made it challenging, and I wouldn't have achieved this score without all the ideas shared on the discussion forum. 
+Hi, I’m a 15 year old Kaggle beginner and this is my third Kaggle competition and second bronze medal! This competition was different from others since it wasn’t a straightforward supervised learning problem which made it challenging, and I wouldn't have achieved this score without all the ideas shared on the discussion forum. I know that my score doesn't compare to the winners's solutions, but I wanted to share it anyway.
 
 For most the first two months of the competition, I mostly focused on deep learning based solutions but found them hard to train and they took a long time. It was only in the last month of the competition that I focused on implementing an unsupervised clustering based solution.
 
