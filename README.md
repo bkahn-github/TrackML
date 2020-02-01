@@ -68,3 +68,7 @@ My code is available at [this] [6] GitHub repository
 [4]: https://www.kaggle.com/c/trackml-particle-identification/discussion/58194
 [5]: https://www.kaggle.com/c/trackml-particle-identification/discussion/62883
 [6]: https://github.com/bkahn-github/TrackML
+
+## Author
+
+Bilal Khan (https://bilal.software)
